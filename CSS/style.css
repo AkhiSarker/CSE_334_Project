@@ -1,81 +1,83 @@
-body{
+body {
     font-family: 'Open Sans', sans-serif;
 }
 
-.banner-container{
-    background-color: rgb(194, 146, 240);
+.banner-container {
+    background-color: rgb(160, 240, 146);
 }
 
-.banner-column{
-    background-color: rgb(165, 96, 230);
+.banner-column {
+    background-color: rgb(98, 230, 96);
 }
 
-.navber-container{
+.navber-container {
     top: 0;
-    background-color: rgb(4, 4, 48);
+    background-color: rgb(6, 91, 133);
     position: sticky;
     z-index: 2;
 }
 
-.about-container{
-    background-color: rgb(235, 132, 212);
+.about-container {
+    background-color: rgb(25, 111, 39);
 }
-.education-container{
+
+.education-container {
     background-color: rgb(90, 218, 218);
 }
 
-.color-text{
+.color-text {
     color: rgb(243, 160, 6);
 }
 
-.colortype{
-    background-color:  rgb(243, 160, 6);
+.colortype {
+    background-color: rgb(243, 160, 6);
 }
 
-.colortype:hover{
-    color:  rgb(8, 8, 8)!important;
+.colortype:hover {
+    color: rgb(8, 8, 8) !important;
 }
 
-.circle{
-    background-color:  rgb(243, 160, 6);
+.circle {
+    background-color: rgb(243, 160, 6);
     width: 150px;
     height: 150px;
     border-radius: 50%;
 }
 
-.project-container{
+.project-container {
     background-color: rgb(102, 194, 163);
 }
 
-.gallery-container{
-    background-color: rgb(113, 170, 20);
+.gallery-container {
+    background-color: rgba(63, 91, 22, 0.482);
 }
-.form-container{
+
+.form-container {
     background-color: rgb(44, 44, 44);
 }
 
-.inner-form{
+.inner-form {
     background-color: rgb(180, 196, 214);
 }
 
-.footer{
+.footer {
     background-color: rgb(14, 131, 240);
 }
 
-.circle-icon{
+.circle-icon {
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    display: inline-block ;
+    display: inline-block;
     background-color: white;
 
     font-size: 40px;
     text-align: center;
 }
 
-.circle-icon:hover{
-    
+.circle-icon:hover {
+
     background-color: rgb(100, 98, 98);
 
-    
+
 }
